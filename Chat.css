@@ -1,0 +1,12 @@
+.Chat {
+    display: flex;
+    flex-direction: column;
+    flex: 0.65;
+}
+
+.chat__header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1px;
+    border-right: 1px solid lightgrey;
+}
